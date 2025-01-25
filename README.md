@@ -13,8 +13,8 @@ An AI-powered chatbot leveraging Ollama’s LLM to deliver intelligent and conte
  # OLLAMA_API_KEY=your_api_key_here(.env)
 
  # steps to run project
-   # python -m venv chatbot-env
-   #  chatbot-env\Scripts\activate (Windows)
-   # source chatbot-env/bin/activate (MacOS/Linux)
-   # pip install -r requirements.txt
-   # python main.py
+   python -m venv chatbot-env
+   chatbot-env\Scripts\activate (Windows)
+   source chatbot-env/bin/activate (MacOS/Linux)
+   pip install -r requirements.txt
+   python main.py
