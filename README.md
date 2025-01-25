@@ -8,9 +8,11 @@ An AI-powered chatbot leveraging Ollama’s LLM to deliver intelligent and conte
  # Install the Ollama Package:
 	If Ollama provides an official Python package, you can install it directly from PyPI. Assuming it’s langchain-ollama (or any other library for Ollama integration):
 
- # pip install langchain-ollama
- # pip install langchain
- # OLLAMA_API_KEY=your_api_key_here(.env)
+ pip install langchain-ollama
+ 
+ pip install langchain
+ 
+ OLLAMA_API_KEY=your_api_key_here(in .env file)
 
  # steps to run project
    python -m venv chatbot-env
