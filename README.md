@@ -1,12 +1,12 @@
 # Ollama-Companion-Intelligent-AI-Assistant
 An AI-powered chatbot leveraging Ollama’s LLM to deliver intelligent and context-aware responses.
 
-# To set up Ollama and integrate it with your project, follow these steps:
+# To set up Ollama and integrate it with  project, follow these steps:
 
 # 1. Install Ollama:
  Ollama provides an API for integration, and to use it with Langchain, you need to install the necessary dependencies.
- # Install the Ollama Package:
-	If Ollama provides an official Python package, you can install it directly from PyPI. Assuming it’s langchain-ollama (or any other library for Ollama integration):
+# 2. Install the Ollama Package:
+ If Ollama provides an official Python package, you can install it directly from PyPI. Assuming it’s langchain-ollama (or any other library for Ollama integration):
 
  pip install langchain-ollama
  
